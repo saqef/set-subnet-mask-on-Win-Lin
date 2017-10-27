@@ -1,5 +1,5 @@
 //QList<QNetworkInterface> ls=QNetworkInterface::allInterfaces();
-//prop[i]-mask (string) 
+//prop[i]-mask (QString) 
 
 #ifdef Q_OS_WIN
 
