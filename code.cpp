@@ -1,4 +1,7 @@
- #ifdef Q_OS_WIN
+//QList<QNetworkInterface> ls=QNetworkInterface::allInterfaces();
+//prop[i]-address 
+
+#ifdef Q_OS_WIN
 
                     HRESULT hres;
 
